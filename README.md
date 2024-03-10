@@ -5,11 +5,10 @@
 This assignment focuses on predicting whether cryptocurrencies are influenced by 24-hour or 7-day price changes using Python and unsupervised learning. The prediction process is conducted twice: first, using the original data, and second, using Principal Components Analysis (PCA) data. The results are then compared to determine the optimal approach for unsupervised learning.
 
 
-
-2. Repository, set up and execution
+2. Repository, setup and execution
 
 This repository contains:
-- Crypto_Clustering.ipynb: a jupyter notebook that contains all the necessary codes.
+- Crypto_Clustering.ipynb: a Jupyter notebook that contains all the necessary codes.
 - Resources: folder containing the data files used
 
 To start: 

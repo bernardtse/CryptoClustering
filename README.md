@@ -12,15 +12,15 @@ This assignment focuses on predicting whether cryptocurrencies are influenced by
 
 ## 2. Repository, Setup and Execution
 
-This repository contains:
+### This repository contains:
 - Crypto_Clustering.ipynb: a Jupyter notebook that contains all the necessary codes.
 - Resources: folder containing the data files used
 
-To start: 
+### To start: 
 - Clone this GitHub repository to a local folder.
 - Run Crypto_Clustering.ipynb on Jupyter notebook.
 
-Required Python Libraries:
+### Required Python Libraries:
 - pandas
 - hvplot
 - scikit-learn

@@ -15,12 +15,12 @@ This challenge focuses on predicting whether cryptocurrencies are influenced by 
 ## 2. Repository, Setup and Execution
 
 ### This repository contains:
-- [`Crypto_Clustering.ipynb`](Crypto_Clustering.ipynb): a Jupyter notebook that contains all the necessary codes.
+- [`crypto_clustering.ipynb`](crypto_clustering.ipynb): a Jupyter notebook that contains all the necessary codes.
 - [`resources/`](resources): folder containing the data files used
 
 ### To start: 
 - Clone this GitHub repository to a local folder.
-- Run `Crypto_Clustering.ipynb` on Jupyter notebook.
+- Run `crypto_clustering.ipynb` on Jupyter notebook.
 
 ### Required Python Libraries:
 - pandas

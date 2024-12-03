@@ -1,4 +1,4 @@
-# CryptoClustering
+# crypto-clustering-challenge
 Cryptocurrency Price Change Prediction: Unsupervised Learning
 
 ## Contents
